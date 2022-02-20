@@ -1,0 +1,15 @@
+C:\Users\euana\Streams_em_C#\bin\Debug\net6.0\Streams_em_C#.exe
+C:\Users\euana\Streams_em_C#\bin\Debug\net6.0\Streams_em_C#.deps.json
+C:\Users\euana\Streams_em_C#\bin\Debug\net6.0\Streams_em_C#.runtimeconfig.json
+C:\Users\euana\Streams_em_C#\bin\Debug\net6.0\Streams_em_C#.dll
+C:\Users\euana\Streams_em_C#\bin\Debug\net6.0\ref\Streams_em_C#.dll
+C:\Users\euana\Streams_em_C#\bin\Debug\net6.0\Streams_em_C#.pdb
+C:\Users\euana\Streams_em_C#\obj\Debug\net6.0\Streams_em_C#.csproj.AssemblyReference.cache
+C:\Users\euana\Streams_em_C#\obj\Debug\net6.0\Streams_em_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\euana\Streams_em_C#\obj\Debug\net6.0\Streams_em_C#.AssemblyInfoInputs.cache
+C:\Users\euana\Streams_em_C#\obj\Debug\net6.0\Streams_em_C#.AssemblyInfo.cs
+C:\Users\euana\Streams_em_C#\obj\Debug\net6.0\Streams_em_C#.csproj.CoreCompileInputs.cache
+C:\Users\euana\Streams_em_C#\obj\Debug\net6.0\Streams_em_C#.dll
+C:\Users\euana\Streams_em_C#\obj\Debug\net6.0\ref\Streams_em_C#.dll
+C:\Users\euana\Streams_em_C#\obj\Debug\net6.0\Streams_em_C#.pdb
+C:\Users\euana\Streams_em_C#\obj\Debug\net6.0\Streams_em_C#.genruntimeconfig.cache

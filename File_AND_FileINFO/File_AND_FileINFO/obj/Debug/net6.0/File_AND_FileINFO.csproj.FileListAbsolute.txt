@@ -1,0 +1,15 @@
+C:\Users\euana\Streams_C#\File_AND_FileINFO\File_AND_FileINFO\bin\Debug\net6.0\File_AND_FileINFO.exe
+C:\Users\euana\Streams_C#\File_AND_FileINFO\File_AND_FileINFO\bin\Debug\net6.0\File_AND_FileINFO.deps.json
+C:\Users\euana\Streams_C#\File_AND_FileINFO\File_AND_FileINFO\bin\Debug\net6.0\File_AND_FileINFO.runtimeconfig.json
+C:\Users\euana\Streams_C#\File_AND_FileINFO\File_AND_FileINFO\bin\Debug\net6.0\File_AND_FileINFO.dll
+C:\Users\euana\Streams_C#\File_AND_FileINFO\File_AND_FileINFO\bin\Debug\net6.0\ref\File_AND_FileINFO.dll
+C:\Users\euana\Streams_C#\File_AND_FileINFO\File_AND_FileINFO\bin\Debug\net6.0\File_AND_FileINFO.pdb
+C:\Users\euana\Streams_C#\File_AND_FileINFO\File_AND_FileINFO\obj\Debug\net6.0\File_AND_FileINFO.csproj.AssemblyReference.cache
+C:\Users\euana\Streams_C#\File_AND_FileINFO\File_AND_FileINFO\obj\Debug\net6.0\File_AND_FileINFO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\euana\Streams_C#\File_AND_FileINFO\File_AND_FileINFO\obj\Debug\net6.0\File_AND_FileINFO.AssemblyInfoInputs.cache
+C:\Users\euana\Streams_C#\File_AND_FileINFO\File_AND_FileINFO\obj\Debug\net6.0\File_AND_FileINFO.AssemblyInfo.cs
+C:\Users\euana\Streams_C#\File_AND_FileINFO\File_AND_FileINFO\obj\Debug\net6.0\File_AND_FileINFO.csproj.CoreCompileInputs.cache
+C:\Users\euana\Streams_C#\File_AND_FileINFO\File_AND_FileINFO\obj\Debug\net6.0\File_AND_FileINFO.dll
+C:\Users\euana\Streams_C#\File_AND_FileINFO\File_AND_FileINFO\obj\Debug\net6.0\ref\File_AND_FileINFO.dll
+C:\Users\euana\Streams_C#\File_AND_FileINFO\File_AND_FileINFO\obj\Debug\net6.0\File_AND_FileINFO.pdb
+C:\Users\euana\Streams_C#\File_AND_FileINFO\File_AND_FileINFO\obj\Debug\net6.0\File_AND_FileINFO.genruntimeconfig.cache
